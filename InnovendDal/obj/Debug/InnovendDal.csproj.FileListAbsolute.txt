@@ -1,0 +1,5 @@
+C:\Dev\InnovendTestSolution\InnovendDal\bin\Debug\InnovendDal.dll
+C:\Dev\InnovendTestSolution\InnovendDal\bin\Debug\InnovendDal.pdb
+C:\Dev\InnovendTestSolution\InnovendDal\obj\Debug\InnovendDal.csproj.CoreCompileInputs.cache
+C:\Dev\InnovendTestSolution\InnovendDal\obj\Debug\InnovendDal.dll
+C:\Dev\InnovendTestSolution\InnovendDal\obj\Debug\InnovendDal.pdb
